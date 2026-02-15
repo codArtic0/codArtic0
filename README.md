@@ -8,9 +8,6 @@
 
 ## 📚 Bacharelando em Ciência da Computação na Universidade Estadual da Paraíba (UEPB)
 
-<img src="https://github-readme-stats.vercel.app/api?username=codArtic0&theme=synthwave&show_icons=true" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codArtic0&layout=compact" alt="Top Langs"/>
-
 </div>
 
 ---
