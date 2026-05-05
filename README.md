@@ -4,32 +4,70 @@
   </a>
 </p>
 
-<div align="center">
 
-## 📚 Bacharelando em Ciência da Computação na Universidade Estadual da Paraíba (UEPB)
+# Olá, eu sou o codArtic0 (ou, Raul Sousa)! 👋
 
-</div>
+### Desenvolvedor Full-Stack | Estrategista Digital | Editor de Vídeo
 
----
-
-- 🌱 Em aprendizado constante  
-- 🎨 Desenvolvedor Full-Stack, Designer Gráfico e Motion Designer.
+Atualmente cursando o **7º período de Ciência da Computação na UEPB**. Sou apaixonado por transformar lógica em interfaces funcionais e experiências visuais impactantes. Meu foco hoje está na construção de ecossistemas robustos que unem performance no back-end e fluidez no front-end.
 
 ---
 
-<div align="center">
-  
-## 📚 Minhas Skills
+## 🚀 Sobre Mim
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.png" alt="Supabase"/></code>
-</div>
+- 🎓 **Educação:** Graduando em Ciência da Computação (UEPB).
+- 💻 **Foco Atual:** Desenvolvimento Full-Stack e UI/UX Design
+- 🎨 **Lado Criativo:** Atuo como Estrategista de Social Media, Designer e Editor de Vídeo (Premiere, After Effects, Photoshop).
+- 🏐 **Curiosidade:** Quando não estou codando, provavelmente estou em quadra jogando vôlei ou na academia treinando.
+
+---
+
+## 🛠️ Tech Stack
+
+### Desenvolvimento
+#### Back-end
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=ffff55)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+#### Front-end
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+
+#### Banco de Dados
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3982CE?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-3982CE?style=for-the-badge&logo=MySQL&logoColor=white)
+
+
+### Design & Audiovisual
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=black)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📂 Projetos em Destaque
+
+### 🛒 [Caneco - Sistema PDV](https://github.com/codArtic0/caneco-front-end)
+Um sistema completo full-stack de Ponto de Venda para supermercados, desenvolvido como projeto principal para a disciplina de Laboratório de Engenharia de Software. Focado em escalabilidade e organização de código.
+
+### 🍎 [API FIT - Com Front End (Em desenvolvimento](https://github.com/codArtic0/api-fit)
+App robusto focado em avaliação física e planejamento nutricional. 
+- **Techs:** Node.js, Express, Prisma ORM, React.
+- **Status:** Back-end validado e funcional; interface front-end em fase de planejamento.
+
+---
+
+## 📫 Vamos nos conectar?
+
+Seja para discutir um projeto de software, estratégias de conteúdo ou apenas manter conexões, estou à disposição:
+
+- **LinkedIn:** https://linkedin.con/in/raulsousapv
+- **Email:** raulsousadesigner@gmail.com
+
+---
+*“Transformando código em solução e ideias em arte.”*
