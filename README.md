@@ -7,7 +7,7 @@
 
 # Olá, eu sou o codArtic0 (ou, Raul Sousa)! 👋
 
-### Desenvolvedor Full-Stack | Estrategista Digital | Editor de Vídeo
+### Desenvolvedor Full-Stack | Estrategista Digital | CloudOps Intern
 
 Atualmente cursando o **7º período de Ciência da Computação na UEPB**. Sou apaixonado por transformar lógica em interfaces funcionais e experiências visuais impactantes. Meu foco hoje está na construção de ecossistemas robustos que unem performance no back-end e fluidez no front-end.
 
@@ -16,7 +16,7 @@ Atualmente cursando o **7º período de Ciência da Computação na UEPB**. Sou 
 ## 🚀 Sobre Mim
 
 - 🎓 **Educação:** Graduando em Ciência da Computação (UEPB).
-- 💻 **Foco Atual:** Desenvolvimento Full-Stack e UI/UX Design
+- 💻 **Foco Atual:** Cloud e DevOps
 - 🎨 **Lado Criativo:** Atuo como Estrategista de Social Media, Designer e Editor de Vídeo (Premiere, After Effects, Photoshop).
 - 🏐 **Curiosidade:** Quando não estou codando, provavelmente estou em quadra jogando vôlei ou na academia treinando.
 
