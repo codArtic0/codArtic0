@@ -9,7 +9,7 @@
 
 ### Desenvolvedor Full-Stack | Estrategista Digital | CloudOps Intern
 
-Atualmente cursando o **7º período de Ciência da Computação na UEPB**. Sou apaixonado por transformar lógica em interfaces funcionais e experiências visuais impactantes. Meu foco hoje está na construção de ecossistemas robustos que unem performance no back-end e fluidez no front-end.
+Atualmente cursando o **8º período de Ciência da Computação na UEPB**. Sou apaixonado por transformar lógica em interfaces funcionais e experiências visuais impactantes. Meu foco hoje está na construção de ecossistemas robustos que unem performance no back-end e fluidez no front-end.
 
 ---
 
