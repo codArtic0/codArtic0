@@ -50,6 +50,17 @@ Atualmente cursando o **8º período de Ciência da Computação na UEPB**. Sou 
 
 ---
 
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://streak-stats.demolab.com?user=codArtic0&theme=dracula" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codArtic0&theme=dracula" width="100%" />
+    </td>
+  </tr>
+</table>
+
 ## 📂 Projetos em Destaque
 
 ### 🛒 [Caneco - Sistema PDV](https://github.com/codArtic0/caneco-front-end)
